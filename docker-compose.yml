@@ -2,7 +2,7 @@ version: '3.9'
 
 services:
   bot:
-    container_name: "sayhrbot_dev"
+    container_name: "toybot_dev"
     build:
       context: .
 #    restart: always
